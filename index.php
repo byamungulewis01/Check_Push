@@ -89,6 +89,15 @@
 									<div class="modal-footer">
 										<button class="btn btn-danger" data-dismiss="modal">Close</button>
 									</div>
+									<div class="modal-footer">
+										<button class="btn btn-danger" data-dismiss="modal">Close</button>
+									</div>
+									<div class="modal-footer">
+										<button class="btn btn-danger" data-dismiss="modal">Close</button>
+									</div>
+									<div class="modal-footer">
+										<button class="btn btn-danger" data-dismiss="modal">Close</button>
+									</div>
 								</form>
 							</div>
 						</div>

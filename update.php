@@ -16,5 +16,9 @@
 		
 		$conn = null;
 		header('location:index.php');
+		$conn = null;
+		header('location:index.php');
+		$conn = null;
+		header('location:index.php');
 	}
 ?>
